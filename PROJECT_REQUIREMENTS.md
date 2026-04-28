@@ -11,7 +11,7 @@
 ## Application Architecture
 The app consists of two main routes:
 1.  **Landing Page (`/`)**: A modern dashboard utilizing an animated bento-box grid layout. 
-2.  **Generator Page (`/bids`)**: The core tool for creating, auto-filling, and printing bids.
+2.  **Generator Page (`/generator`)**: The core tool for creating, auto-filling, and printing bids.
 
 ## Feature Specifications
 
